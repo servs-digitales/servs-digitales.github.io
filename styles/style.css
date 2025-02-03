@@ -1,0 +1,23 @@
+/* Tema Principal */
+:root {
+    font-size: 19px;
+    font-family: Helvetica, Arial, sans-serif;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    --color-texto: #2a2a2a;
+    --color-texto-contraste: #ffffff;
+    --color-texto-claro: #36423e;
+    --color-texto-acento: #b37a00;
+    --color-texto-activo: #9c0c0c;
+    --color-fondo: #ffffff;
+    --color-secundario: #2a2a2a;
+    --color-principal: #fa204c;
+    --color-acento: #ffb40c;
+}
+
+body {
+    color: var(--color-texto);
+    background-color: var(--color-fondo);
+    margin: 0;
+    padding: 0;
+}
