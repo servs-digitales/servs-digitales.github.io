@@ -21,3 +21,13 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/* Pantallas Grandes */
+@media only screen and (min-width: 821px) {
+
+}
+
+/* Pantallas Pequeñas */
+@media only screen and (max-width: 820px) {
+
+}
